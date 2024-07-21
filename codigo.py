@@ -1,4 +1,4 @@
-nombre = "aguante el"
+nombre = "aguante"
 apellido = "Carp"
 
 saludo = "holaa "+ nombre + " " + apellido + " como estas?"
